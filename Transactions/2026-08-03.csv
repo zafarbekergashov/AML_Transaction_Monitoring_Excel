@@ -1,0 +1,6 @@
+Transaction ID,Customer ID,Customer Name,Country,Amount,Channel,Transaction Type,Risk Level,Date
+TX011,C010,Sofia Martin,Spain,11000,Online,Transfer,MEDIUM,03-08-26
+TX012,C004,Zhang Wei,China,60000,Online,Transfer,HIGH,03-08-26
+TX013,C011,Robert Taylor,France,5000,Branch,Transfer,LOW,03-08-26
+TX014,C002,Ahmed Khan,UAE,25000,Online,Transfer,HIGH,03-08-26
+TX015,C012,Daniel Novak,Poland,3000,ATM,Cash Withdrawal,LOW,03-08-26

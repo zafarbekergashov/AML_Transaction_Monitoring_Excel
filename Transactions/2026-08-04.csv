@@ -1,0 +1,4 @@
+Transaction ID,Customer ID,Customer Name,Country,Amount,Channel,Transaction Type,Risk Level,Date
+TX016,C013,Michael Lee,UAE,75000,Online,Transfer,HIGH,04-08-26
+TX017,C014,Anna Kowalska,Poland,2000,Branch,Transfer,LOW,04-08-26
+TX018,C002,Ahmed Khan,UAE,8000,Online,Transfer,HIGH,04-08-26

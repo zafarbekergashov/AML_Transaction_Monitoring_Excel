@@ -1,0 +1,5 @@
+Customer ID,Customer Name,Country,Sanctions Status,Reason,
+C002,Ahmed Khan,UAE,LISTED,Financial Crime,
+C004,Zhang Wei,China,LISTED,Sanctions Evasion,
+C099,David Miller,UK,LISTED,Terrorist Financing,
+C101,Robert Taylor,France,LISTED,Proliferation,
